@@ -1,4 +1,4 @@
-** Node Kafka Consumers **
+**Node Kafka Consumers**
 
 This repo includes two sample Node scripts:
 - **Sample Kafka Consumer**: simple high level consumer listenning on single-parition topic 'messages';
